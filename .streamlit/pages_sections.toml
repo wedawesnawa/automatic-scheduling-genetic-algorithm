@@ -1,0 +1,34 @@
+[[pages]]
+name = "Master Data"
+icon = ""
+is_section = true
+
+[[pages]]
+path = "pages/page_matakuliah.py"
+name = "Mata Kuliah"
+icon = "📄"
+
+[[pages]]
+path = "pages/page_dosen.py"
+name = "Dosen"
+icon = "🧑‍🏫"
+
+[[pages]]
+path = "pages/page_ruangan.py"
+name = "Ruangan"
+icon = "🪟"
+
+[[pages]]
+path = "pages/page_waktu.py"
+name = "Slot Waktu"
+icon = "⌚"
+
+[[pages]]
+path = "pages/page_penjadwalan_ganjil.py"
+name = "Buat Penjadwalan Ganjil"
+icon = "📅"
+
+[[pages]]
+path = "pages/page_penjadwalan_genap.py"
+name = "Buat Penjadwalan Genap"
+icon = "📅"

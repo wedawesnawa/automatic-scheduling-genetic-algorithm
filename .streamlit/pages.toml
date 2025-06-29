@@ -1,0 +1,29 @@
+[[pages]]
+name = "Master"
+icon = ":pig:"
+is_section = true
+
+[[pages]]
+path = "pages/page_matakuliah.py"
+name = "st-pages"
+icon = "📄"
+
+[[pages]]
+path = "pages/page_dosen.py"
+name = "Example Two"
+icon = ":material/history:"
+
+[[pages]]
+path = "pages/page_ruangan.py"
+name = "Try hiding pages"
+icon = "📖"
+
+[[pages]]
+path = "pages/page_waktu.py"
+name = "Example Five"
+icon = "🧰"
+
+[[pages]]
+path = "pages/page_penjadwalan.py"
+name = "Example Five"
+icon = "🧰"

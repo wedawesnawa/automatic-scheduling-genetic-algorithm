@@ -1,0 +1,268 @@
+id_mk,nama_mk,kelas,sks,durasi,semester,periode,is_optional,id_dosen
+MK001,Etika Profesi,A,2,100,1,Ganjil,FALSE,D005
+MK002,Etika Profesi,B,2,100,1,Ganjil,FALSE,D005
+MK003,Etika Profesi,C,2,100,1,Ganjil,FALSE,D005
+MK004,Etika Profesi,D,2,100,1,Ganjil,FALSE,D005
+MK005,Etika Profesi,E,2,100,1,Ganjil,FALSE,D005
+MK006,Etika Profesi,F,2,100,1,Ganjil,FALSE,D005
+MK007,Matematika Diskrit I,A,2,100,1,Ganjil,FALSE,D006
+MK008,Matematika Diskrit I,B,2,100,1,Ganjil,FALSE,D006
+MK009,Matematika Diskrit I,C,2,100,1,Ganjil,FALSE,D006
+MK010,Matematika Diskrit I,D,2,100,1,Ganjil,FALSE,D006
+MK011,Matematika Diskrit I,E,2,100,1,Ganjil,FALSE,D006
+MK012,Matematika Diskrit I,F,2,100,1,Ganjil,FALSE,D006
+MK013,Matematika Informatika,A,3,150,1,Ganjil,FALSE,D012
+MK014,Matematika Informatika,B,3,150,1,Ganjil,FALSE,D012
+MK015,Matematika Informatika,C,3,150,1,Ganjil,FALSE,D012
+MK016,Matematika Informatika,D,3,150,1,Ganjil,FALSE,D012
+MK017,Matematika Informatika,E,3,150,1,Ganjil,FALSE,D023
+MK018,Matematika Informatika,F,3,150,1,Ganjil,FALSE,D023
+MK019,Algoritma dan Pemrograman,A,3,150,1,Ganjil,FALSE,D009
+MK020,Algoritma dan Pemrograman,B,3,150,1,Ganjil,FALSE,D009
+MK021,Algoritma dan Pemrograman,C,3,150,1,Ganjil,FALSE,D009
+MK022,Algoritma dan Pemrograman,D,3,150,1,Ganjil,FALSE,D009
+MK023,Algoritma dan Pemrograman,E,3,150,1,Ganjil,FALSE,D004
+MK024,Algoritma dan Pemrograman,F,3,150,1,Ganjil,FALSE,D004
+MK025,Statistika Dasar,A,2,100,1,Ganjil,FALSE,D001
+MK026,Statistika Dasar,B,2,100,1,Ganjil,FALSE,D001
+MK027,Statistika Dasar,C,2,100,1,Ganjil,FALSE,D001
+MK028,Statistika Dasar,D,2,100,1,Ganjil,FALSE,D001
+MK029,Statistika Dasar,E,2,100,1,Ganjil,FALSE,D001
+MK030,Statistika Dasar,F,2,100,1,Ganjil,FALSE,D001
+MK031,Sistem Digital,A,3,150,1,Ganjil,FALSE,D018
+MK032,Sistem Digital,B,3,150,1,Ganjil,FALSE,D018
+MK033,Sistem Digital,C,3,150,1,Ganjil,FALSE,D018
+MK034,Sistem Digital,D,3,150,1,Ganjil,FALSE,D018
+MK035,Sistem Digital,E,3,150,1,Ganjil,FALSE,D018
+MK036,Sistem Digital,F,3,150,1,Ganjil,FALSE,D018
+MK037,Matematika Diskrit II,A,2,100,2,Genap,FALSE,D006
+MK038,Matematika Diskrit II,B,2,100,2,Genap,FALSE,D006
+MK039,Matematika Diskrit II,C,2,100,2,Genap,FALSE,D006
+MK040,Matematika Diskrit II,D,2,100,2,Genap,FALSE,D006
+MK041,Matematika Diskrit II,E,2,100,2,Genap,FALSE,D006
+MK042,Matematika Diskrit II,F,2,100,2,Genap,FALSE,D006
+MK043,Struktur Data,A,3,150,2,Genap,FALSE,D009
+MK044,Struktur Data,B,3,150,2,Genap,FALSE,D009
+MK045,Struktur Data,C,3,150,2,Genap,FALSE,D009
+MK046,Struktur Data,D,3,150,2,Genap,FALSE,D009
+MK047,Struktur Data,E,3,150,2,Genap,FALSE,D018
+MK048,Struktur Data,F,3,150,2,Genap,FALSE,D018
+MK049,Sistem Operasi,A,3,150,2,Genap,FALSE,D019
+MK050,Sistem Operasi,B,3,150,2,Genap,FALSE,D019
+MK051,Sistem Operasi,C,3,150,2,Genap,FALSE,D017
+MK052,Sistem Operasi,D,3,150,2,Genap,FALSE,D017
+MK053,Sistem Operasi,E,3,150,2,Genap,FALSE,D015
+MK054,Sistem Operasi,F,3,150,2,Genap,FALSE,D015
+MK055,Pengantar Probabilitas,A,2,100,2,Genap,FALSE,D001
+MK056,Pengantar Probabilitas,B,2,100,2,Genap,FALSE,D001
+MK057,Pengantar Probabilitas,C,2,100,2,Genap,FALSE,D001
+MK058,Pengantar Probabilitas,D,2,100,2,Genap,FALSE,D001
+MK059,Pengantar Probabilitas,E,2,100,2,Genap,FALSE,D001
+MK060,Pengantar Probabilitas,F,2,100,2,Genap,FALSE,D001
+MK061,Organisasi dan Arsitektur Komputer,A,3,150,2,Genap,FALSE,D013
+MK062,Organisasi dan Arsitektur Komputer,B,3,150,2,Genap,FALSE,D013
+MK063,Organisasi dan Arsitektur Komputer,C,3,150,2,Genap,FALSE,D013
+MK064,Organisasi dan Arsitektur Komputer,D,3,150,2,Genap,FALSE,D013
+MK065,Organisasi dan Arsitektur Komputer,E,3,150,2,Genap,FALSE,D020
+MK066,Organisasi dan Arsitektur Komputer,F,3,150,2,Genap,FALSE,D020
+MK067,Tata Tulis Karya Ilmiah,A,2,100,2,Genap,FALSE,D012
+MK068,Tata Tulis Karya Ilmiah,B,2,100,2,Genap,FALSE,D012
+MK069,Tata Tulis Karya Ilmiah,C,2,100,2,Genap,FALSE,D012
+MK070,Tata Tulis Karya Ilmiah,D,2,100,2,Genap,FALSE,D012
+MK071,Tata Tulis Karya Ilmiah,E,2,100,2,Genap,FALSE,D012
+MK072,Tata Tulis Karya Ilmiah,F,2,100,2,Genap,FALSE,D012
+MK073,Interaksi Manusia dan Komputer,A,3,150,3,Ganjil,FALSE,D013
+MK074,Interaksi Manusia dan Komputer,B,3,150,3,Ganjil,FALSE,D013
+MK075,Interaksi Manusia dan Komputer,C,3,150,3,Ganjil,FALSE,D013
+MK076,Interaksi Manusia dan Komputer,D,3,150,3,Ganjil,FALSE,D013
+MK077,Interaksi Manusia dan Komputer,E,3,150,3,Ganjil,FALSE,D013
+MK078,Interaksi Manusia dan Komputer,F,3,150,3,Ganjil,FALSE,D013
+MK079,Basis Data,A,3,150,3,Ganjil,FALSE,D021
+MK080,Basis Data,B,3,150,3,Ganjil,FALSE,D021
+MK081,Basis Data,C,3,150,3,Ganjil,FALSE,D021
+MK082,Basis Data,D,3,150,3,Ganjil,FALSE,D021
+MK083,Basis Data,E,3,150,3,Ganjil,FALSE,D021
+MK084,Basis Data,F,3,150,3,Ganjil,FALSE,D021
+MK085,Desain dan Analisis Algoritma,A,3,150,3,Ganjil,FALSE,D014
+MK086,Desain dan Analisis Algoritma,B,3,150,3,Ganjil,FALSE,D014
+MK087,Desain dan Analisis Algoritma,C,3,150,3,Ganjil,FALSE,D014
+MK088,Desain dan Analisis Algoritma,D,3,150,3,Ganjil,FALSE,D014
+MK089,Desain dan Analisis Algoritma,E,3,150,3,Ganjil,FALSE,D014
+MK090,Desain dan Analisis Algoritma,F,3,150,3,Ganjil,FALSE,D014
+MK091,Rekayasa Perangkat Lunak,A,3,150,3,Ganjil,FALSE,D020
+MK092,Rekayasa Perangkat Lunak,B,3,150,3,Ganjil,FALSE,D020
+MK093,Rekayasa Perangkat Lunak,C,3,150,3,Ganjil,FALSE,D020
+MK094,Rekayasa Perangkat Lunak,D,3,150,3,Ganjil,FALSE,D020
+MK095,Rekayasa Perangkat Lunak,E,3,150,3,Ganjil,FALSE,D020
+MK096,Rekayasa Perangkat Lunak,F,3,150,3,Ganjil,FALSE,D020
+MK097,Pemrograman Berorientasi Obyek,A,3,150,3,Ganjil,FALSE,D016
+MK098,Pemrograman Berorientasi Obyek,B,3,150,3,Ganjil,FALSE,D016
+MK099,Pemrograman Berorientasi Obyek,C,3,150,3,Ganjil,FALSE,D016
+MK100,Pemrograman Berorientasi Obyek,D,3,150,3,Ganjil,FALSE,D016
+MK101,Pemrograman Berorientasi Obyek,E,3,150,3,Ganjil,FALSE,D016
+MK102,Pemrograman Berorientasi Obyek,F,3,150,3,Ganjil,FALSE,D016
+MK103,Komunikasi Data dan Jaringan Komputer,A,3,150,3,Ganjil,FALSE,D015
+MK104,Komunikasi Data dan Jaringan Komputer,B,3,150,3,Ganjil,FALSE,D015
+MK105,Komunikasi Data dan Jaringan Komputer,C,3,150,3,Ganjil,FALSE,D015
+MK106,Komunikasi Data dan Jaringan Komputer,D,3,150,3,Ganjil,FALSE,D015
+MK107,Komunikasi Data dan Jaringan Komputer,E,3,150,3,Ganjil,FALSE,D015
+MK108,Komunikasi Data dan Jaringan Komputer,F,3,150,3,Ganjil,FALSE,D015
+MK109,Teori Bahasa dan Otomata,A,3,150,3,Ganjil,FALSE,D004
+MK110,Teori Bahasa dan Otomata,B,3,150,3,Ganjil,FALSE,D004
+MK111,Teori Bahasa dan Otomata,C,3,150,3,Ganjil,FALSE,D003
+MK112,Teori Bahasa dan Otomata,D,3,150,3,Ganjil,FALSE,D003
+MK113,Teori Bahasa dan Otomata,E,3,150,3,Ganjil,FALSE,D003
+MK114,Teori Bahasa dan Otomata,F,3,150,3,Ganjil,FALSE,D003
+MK115,Metode Penelitian,A,2,100,4,Genap,FALSE,D004
+MK116,Metode Penelitian,B,2,100,4,Genap,FALSE,D004
+MK117,Metode Penelitian,C,2,100,4,Genap,FALSE,D004
+MK118,Metode Penelitian,D,2,100,4,Genap,FALSE,D004
+MK119,Metode Penelitian,E,2,100,4,Genap,FALSE,D020
+MK120,Metode Penelitian,F,2,100,4,Genap,FALSE,D020
+MK121,Analisis dan Desain Sistem,A,3,150,4,Genap,FALSE,D025
+MK122,Analisis dan Desain Sistem,B,3,150,4,Genap,FALSE,D025
+MK123,Analisis dan Desain Sistem,C,3,150,4,Genap,FALSE,D016
+MK124,Analisis dan Desain Sistem,D,3,150,4,Genap,FALSE,D016
+MK125,Analisis dan Desain Sistem,E,3,150,4,Genap,FALSE,D021
+MK126,Analisis dan Desain Sistem,F,3,150,4,Genap,FALSE,D021
+MK127,Pengantar Kecerdasan Buatan,A,3,150,4,Genap,FALSE,D004
+MK128,Pengantar Kecerdasan Buatan,B,3,150,4,Genap,FALSE,D004
+MK129,Pengantar Kecerdasan Buatan,C,3,150,4,Genap,FALSE,D020
+MK130,Pengantar Kecerdasan Buatan,D,3,150,4,Genap,FALSE,D020
+MK131,Pengantar Kecerdasan Buatan,E,3,150,4,Genap,FALSE,D002
+MK132,Pengantar Kecerdasan Buatan,F,3,150,4,Genap,FALSE,D002
+MK133,Sistem Informasi,A,3,150,4,Genap,FALSE,D017
+MK134,Sistem Informasi,B,3,150,4,Genap,FALSE,D017
+MK135,Sistem Informasi,C,3,150,4,Genap,FALSE,D017
+MK136,Sistem Informasi,D,3,150,4,Genap,FALSE,D017
+MK137,Sistem Informasi,E,3,150,4,Genap,FALSE,D005
+MK138,Sistem Informasi,F,3,150,4,Genap,FALSE,D005
+MK139,Pengantar Pemrosesan Data Multimedia,A,3,150,4,Genap,FALSE,D003
+MK140,Pengantar Pemrosesan Data Multimedia,B,3,150,4,Genap,FALSE,D003
+MK141,Pengantar Pemrosesan Data Multimedia,C,3,150,4,Genap,FALSE,D003
+MK142,Pengantar Pemrosesan Data Multimedia,D,3,150,4,Genap,FALSE,D003
+MK143,Pengantar Pemrosesan Data Multimedia,E,3,150,4,Genap,FALSE,D022
+MK144,Pengantar Pemrosesan Data Multimedia,F,3,150,4,Genap,FALSE,D022
+MK145,Keamanan Jaringan,A,3,150,4,Genap,FALSE,D011
+MK146,Keamanan Jaringan,B,3,150,4,Genap,FALSE,D011
+MK147,Keamanan Jaringan,C,3,150,4,Genap,FALSE,D011
+MK148,Keamanan Jaringan,D,3,150,4,Genap,FALSE,D011
+MK149,Keamanan Jaringan,E,3,150,4,Genap,FALSE,D024
+MK150,Keamanan Jaringan,F,3,150,4,Genap,FALSE,D024
+MK151,Pemrograman Berbasis Web,A,3,150,4,Genap,FALSE,D016
+MK152,Pemrograman Berbasis Web,B,3,150,4,Genap,FALSE,D016
+MK153,Pemrograman Berbasis Web,C,3,150,4,Genap,FALSE,D024
+MK154,Pemrograman Berbasis Web,D,3,150,4,Genap,FALSE,D024
+MK155,Pemrograman Berbasis Web,E,3,150,4,Genap,FALSE,D023
+MK156,Pemrograman Berbasis Web,F,3,150,4,Genap,FALSE,D023
+MK157,Komputer dan Masyarakat,A,2,100,5,Ganjil,FALSE,D005
+MK158,Komputer dan Masyarakat,B,2,100,5,Ganjil,FALSE,D005
+MK159,Komputer dan Masyarakat,C,2,100,5,Ganjil,FALSE,D005
+MK160,Komputer dan Masyarakat,D,2,100,5,Ganjil,FALSE,D005
+MK161,Komputer dan Masyarakat,E,2,100,5,Ganjil,FALSE,D005
+MK162,Komputer dan Masyarakat,F,2,100,5,Ganjil,FALSE,D005
+MK163,Pemodelan dan Simulasi,A,3,150,5,Ganjil,FALSE,D017
+MK164,Pemodelan dan Simulasi,B,3,150,5,Ganjil,FALSE,D017
+MK165,Pemodelan dan Simulasi,C,3,150,5,Ganjil,FALSE,D017
+MK166,Pemodelan dan Simulasi,D,3,150,5,Ganjil,FALSE,D022
+MK167,Pemodelan dan Simulasi,E,3,150,5,Ganjil,FALSE,D022
+MK168,Pemodelan dan Simulasi,F,3,150,5,Ganjil,FALSE,D022
+MK169,Grafika Komputer,A,3,150,5,Ganjil,FALSE,D011
+MK170,Grafika Komputer,B,3,150,5,Ganjil,FALSE,D011
+MK171,Grafika Komputer,C,3,150,5,Ganjil,FALSE,D011
+MK172,Grafika Komputer,D,3,150,5,Ganjil,FALSE,D011
+MK173,Grafika Komputer,E,3,150,5,Ganjil,FALSE,D011
+MK174,Grafika Komputer,F,3,150,5,Ganjil,FALSE,D011
+MK175,Sains Data,A,3,150,5,Ganjil,FALSE,D004
+MK176,Sains Data,B,3,150,5,Ganjil,FALSE,D004
+MK177,Sains Data,C,3,150,5,Ganjil,FALSE,D004
+MK178,Sains Data,D,3,150,5,Ganjil,FALSE,D017
+MK179,Sains Data,E,3,150,5,Ganjil,FALSE,D017
+MK180,Sains Data,F,3,150,5,Ganjil,FALSE,D017
+MK181,Basis Data Lanjut,A,3,150,5,Ganjil,FALSE,D023
+MK182,Basis Data Lanjut,B,3,150,5,Ganjil,FALSE,D023
+MK183,Basis Data Lanjut,C,3,150,5,Ganjil,FALSE,D023
+MK184,Basis Data Lanjut,D,3,150,5,Ganjil,FALSE,D020
+MK185,Basis Data Lanjut,E,3,150,5,Ganjil,FALSE,D020
+MK186,Basis Data Lanjut,F,3,150,5,Ganjil,FALSE,D020
+MK187,Desain dan Pengujian Berpusat pada Pengguna,A,3,150,5,Ganjil,FALSE,D023
+MK188,Desain dan Pengujian Berpusat pada Pengguna,B,3,150,5,Ganjil,FALSE,D023
+MK189,Desain dan Pengujian Berpusat pada Pengguna,C,3,150,5,Ganjil,FALSE,D023
+MK190,Desain dan Pengujian Berpusat pada Pengguna,D,3,150,5,Ganjil,FALSE,D002
+MK191,Desain dan Pengujian Berpusat pada Pengguna,E,3,150,5,Ganjil,FALSE,D002
+MK192,Desain dan Pengujian Berpusat pada Pengguna,F,3,150,5,Ganjil,FALSE,D002
+MK193,Teknologi Logika Fuzzy,A,3,150,5,Ganjil,FALSE,D018
+MK194,Teknologi Logika Fuzzy,B,3,150,5,Ganjil,FALSE,D018
+MK195,Teknologi Logika Fuzzy,C,3,150,5,Ganjil,FALSE,D018
+MK196,Teknologi Logika Fuzzy,D,3,150,5,Ganjil,FALSE,D025
+MK197,Teknologi Logika Fuzzy,E,3,150,5,Ganjil,FALSE,D025
+MK198,Teknologi Logika Fuzzy,F,3,150,5,Ganjil,FALSE,D025
+MK199,Teknologi IOT,A,3,150,5,Ganjil,FALSE,D018
+MK200,Teknologi IOT,B,3,150,5,Ganjil,FALSE,D018
+MK201,Teknologi IOT,C,3,150,5,Ganjil,FALSE,D018
+MK202,Teknologi IOT,D,3,150,5,Ganjil,FALSE,D024
+MK203,Teknologi IOT,E,3,150,5,Ganjil,FALSE,D024
+MK204,Teknologi IOT,F,3,150,5,Ganjil,FALSE,D024
+MK205,Siklus Hidup Proyek Kecerdasan Buatan,A,2,100,6,Genap,FALSE,D018
+MK206,Siklus Hidup Proyek Kecerdasan Buatan,B,2,100,6,Genap,FALSE,D018
+MK207,Siklus Hidup Proyek Kecerdasan Buatan,C,2,100,6,Genap,FALSE,D025
+MK208,Siklus Hidup Proyek Kecerdasan Buatan,D,2,100,6,Genap,FALSE,D025
+MK209,Siklus Hidup Proyek Kecerdasan Buatan,E,2,100,6,Genap,FALSE,D025
+MK210,Siklus Hidup Proyek Kecerdasan Buatan,F,2,100,6,Genap,FALSE,D018
+MK211,Pengantar Deep Learning,A,3,150,6,Genap,FALSE,D015
+MK212,Pengantar Deep Learning,B,3,150,6,Genap,FALSE,D015
+MK213,Pengantar Deep Learning,C,3,150,6,Genap,FALSE,D015
+MK214,Pengantar Deep Learning,D,3,150,6,Genap,FALSE,D021
+MK215,Pengantar Deep Learning,E,3,150,6,Genap,FALSE,D021
+MK216,Pengantar Deep Learning,F,3,150,6,Genap,FALSE,D021
+MK217,Pemrosesan Data Tekstual pada Web,A1,3,150,6,Genap,TRUE,D022
+MK218,NoSQL dan Basis Data Grafik,A2,3,150,6,Genap,TRUE,D002
+MK219,Intelijen Bisnis dan Analisis,A3,3,150,6,Genap,TRUE,D019
+MK220,Manajemen Data dan Informasi,A4,3,150,6,Genap,TRUE,D005
+MK221,Sistem Temu Kembali Informasi Musik,A5,3,150,6,Genap,TRUE,D021
+MK222,Sintesis Bunyi,A6,3,150,6,Genap,TRUE,D021
+MK223,Kompresi Data Multimedia,A7,3,150,6,Genap,TRUE,D011
+MK224,Jaringan Multimedia,A8,3,150,6,Genap,TRUE,D015
+MK225,Forensik Digital,A9,3,150,6,Genap,TRUE,D019
+MK226,Kriptoanalisis,A10,3,150,6,Genap,TRUE,D022
+MK227,Pemrosesan Dalam Jaringan,A11,3,150,6,Genap,TRUE,D005
+MK228,Keamanan Jaringan Sensor,A12,3,150,6,Genap,TRUE,D011
+MK229,Analisis dan Pengolahan Data Digital,A13,3,150,6,Genap,TRUE,D018
+MK230,Metode Penalaran,A14,3,150,6,Genap,TRUE,D018
+MK231,Pemrograman Berbasis Mobile,A15,3,150,6,Genap,TRUE,D023
+MK232,Gudang Data dan Basis Data Terdistribusi,A16,3,150,6,Genap,TRUE,D023
+MK233,Perancangan Interaksi,A17,3,150,6,Genap,TRUE,D019
+MK234,Pemrograman Sistem Interaktif,A18,3,150,6,Genap,TRUE,D002
+MK235,Temu Kembali Informasi Tekstual,A1,3,150,7,Ganjil,TRUE,D005
+MK236,Pembelajaran Mesin untuk Data Tekstual,A2,3,150,7,Ganjil,TRUE,D003
+MK237,Penambangan Data Tekstual,A3,3,150,7,Ganjil,TRUE,D010
+MK238,Pemrosesan Bahasan Alami,A4,3,150,7,Ganjil,TRUE,D004
+MK239,Warisan Budaya Digital,A5,3,150,7,Ganjil,TRUE,D005
+MK240,Evaluasi Teknologi Informasi,A6,3,150,7,Ganjil,TRUE,D017
+MK241,Pemrosesan Sinyal Digital,A7,3,150,7,Ganjil,TRUE,D012
+MK242,Pengenalan Pola,A8,3,150,7,Ganjil,TRUE,D021
+MK243,Pengantar Pembelajaran Mesin,A9,3,150,7,Ganjil,TRUE,D012
+MK244,Pengantar Komputasi Lunak,A10,3,150,7,Ganjil,TRUE,D018
+MK245,Pengolahan Bunyi Digital,A11,3,150,7,Ganjil,TRUE,D015
+MK246,Pengolahan Citra Digital,A12,3,150,7,Ganjil,TRUE,D007
+MK247,Sistem Multimedia,A13,3,150,7,Ganjil,TRUE,D015
+MK248,Pengolahan Video Digital,A14,3,150,7,Ganjil,TRUE,D011
+MK249,Kriptografi,A15,3,150,7,Ganjil,TRUE,D023
+MK250,Steganografi,A16,3,150,7,Ganjil,TRUE,D008
+MK251,Keamanan Sistem Mobile,A17,3,150,7,Ganjil,TRUE,D020
+MK252,Teknologi Nirkabel,A18,3,150,7,Ganjil,TRUE,D008
+MK253,Jaringan Sensor Terdistribusi,A19,3,150,7,Ganjil,TRUE,D008
+MK254,Integrasi Data dan Sensor,A20,3,150,7,Ganjil,TRUE,D022
+MK255,Pemrograman Ubikuitas,A21,3,150,7,Ganjil,TRUE,D022
+MK256,Metode Kecerdasan Buatan Lanjut,A22,3,150,7,Ganjil,TRUE,D019
+MK257,Sistem Pakar,A23,3,150,7,Ganjil,TRUE,D002
+MK258,Sistem Optimasi,A24,3,150,7,Ganjil,TRUE,D006
+MK259,Sistem Temu Kembali Berbasis Komputasi Cerdas,A25,3,150,7,Ganjil,TRUE,D016
+MK260,Manajemen Proyek Teknologi Informasi,A26,3,150,7,Ganjil,TRUE,D010
+MK261,Penambangan Data dan Analisis,A27,3,150,7,Ganjil,TRUE,D012
+MK262,Perdagangan Elektronik dan Intelijen Bisnis,A28,3,150,7,Ganjil,TRUE,D014
+MK263,Sistem Informasi Geografis dan Analisis Data Spasial,A29,3,150,7,Ganjil,TRUE,D019
+MK264,Realitas Campuran Tertambah dan Virtual,A30,3,150,7,Ganjil,TRUE,D020
+MK265,Pemrograman Sistem Interaktif Berorientasi Desain,A31,3,150,7,Ganjil,TRUE,D013
+MK266,Metode Statistika untuk Interaksi Manusia Komputer,A32,3,150,7,Ganjil,TRUE,D001
+MK267,Ergonomi Terapan,A33,3,150,7,Ganjil,TRUE,D018
