@@ -38,7 +38,7 @@ for an optimal timetable while minimizing scheduling conflicts and maximizing th
 5. Run the application `streamlit run main.py`
 6. Open `http://localhost:8501`
 
-## Screenshots
+## 📷 Screenshots
 
 ![Image](https://drive.google.com/uc?id=15LI4JjhbAbB1ccX0W9HJKJ5v4IpBY-nA)  
 ![Image](https://drive.google.com/uc?id=1xhV4L2bNs_VxF7DL6_NmGG_ZNmi4ShSk) 
@@ -56,7 +56,7 @@ Developing an automatic timetable generator involved several challenges:
 * Designing an appropriate chromosome representation.
 * Balancing exploration and exploitation during the optimization process.
 
-## Future Improvements
+## 🔮 Future Improvements
 Several improvements can further enhance the system:
 
 * Support soft and hard scheduling constraints separately.
