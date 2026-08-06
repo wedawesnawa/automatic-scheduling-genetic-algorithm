@@ -1,6 +1,6 @@
 # Automatic Scheduling Using a Genetic Algorithm
 
-Preview (GIF)
+![Preview (GIF)](Video%20Project%201.gif)
 
 ## 📖 About
 
@@ -31,7 +31,7 @@ for an optimal timetable while minimizing scheduling conflicts and maximizing th
 
 
 ## 🚀 Installation
-1. git clone https://github.com/yourusername/automatic-scheduling-ga.git
+1. git clone `https://github.com/wedawesnawa/automatic-scheduling-genetic-algorithm.git`
 2. Create a virtual environment `python -m venv venv`
 3. Activate the environment `venv\Scripts\activate`
 4. Install dependencies `pip install -r requirements.txt`
