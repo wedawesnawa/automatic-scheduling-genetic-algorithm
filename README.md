@@ -1,6 +1,6 @@
 # Automatic Scheduling Using a Genetic Algorithm
 
-![Preview (GIF)](Video%20Project%201.gif)
+![Preview (GIF)](Video%20Project-1.gif)
 
 ## 📖 About
 
